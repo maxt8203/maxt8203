@@ -9,8 +9,10 @@ Leadership and problem-solving skills developed through owning solution design a
 
 ## What I work with
 
-- **Languages:** Python, JavaScript (Node.js), SQL (learning)
-- **Cloud and automation:** Azure Functions, REST and GraphQL APIs, GitHub Actions, Google AppSheet
+**Technical**: Python, Azure Functions, Google AppSheet, REST & GraphQL APIs, GitHub Actions (CI/CD)
+**AI**: LLM integration via Microsoft Foundry; prompt engineering, MCP, Claude Skills & connectors
+**Data**: Proficient in Pandas, Excel, and SQL querying, filtering, transforming, and schema design
+**Security & Ops**: PII handling, API key management, encryption, access permissions, logging & alerting
 
 ## Projects
 
