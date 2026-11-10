@@ -16,7 +16,7 @@ Leadership and problem-solving skills developed through owning solution design a
 
 - **[metrics-tracker](https://github.com/maxt8203/metrics-tracker)** – personal tracker that turns weekly Oura and Google Calendar data into dashboards
 - **[sw-hackathon](https://github.com/maxt8203/sw-hackathon)** – Hack South West 2025 entry (Data 4 Good): traffic accident analysis, model comparison and a risk prediction app. I led project management for the team.
-- **[GameHubRewardsLandingPage](https://github.com/maxt8203/GameHubRewardsLandingPage)** – landing page with an email sign-up backed by MongoDB
+- **[GameHubRewardsLandingPage](https://github.com/maxt8203/landing-page-GameHubRewards)** – landing page with an email sign-up backed by MongoDB
 
 ## Get in touch
 
