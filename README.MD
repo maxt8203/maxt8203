@@ -1,5 +1,5 @@
 
-# Hi, I'm Max 👋
+# Max Tanner
 
 Software engineer with 1+ years' experience at an AI & automation consultancy, building automations that cut manual admin and managing client relationships. BSc Business Analytics student at the University of Exeter; bilingual in English and Spanish.
 
