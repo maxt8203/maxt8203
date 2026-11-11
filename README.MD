@@ -20,6 +20,13 @@ Currently based in Exeter, UK
 - **[sw-hackathon](https://github.com/maxt8203/sw-hackathon)** – Hack South West 2025 entry (Data 4 Good): traffic accident analysis, model comparison and a risk prediction app. I led project management for the team.
 - **[landing-page-gamehubrewards](https://github.com/maxt8203/landing-page-GameHubRewards)** – landing page with an email sign-up backed by MongoDB
 
+## Professional acheivements
+
+- **Co-built an automation** connecting HR, payroll & nursery management platforms for a 2,000+ employee company, saving them around 210 hours of manual work per month (Python, APIs, Azure Functions)
+- **Selected by the CEO as account manager** for this client, owning ongoing communications and support
+- **Own design and build** of a quoting system for a window installer, replacing slow manual pricing (5 sales forms, Python pricing engine, CRM link); wrote the product spec (34 requirements, 25 user stories)
+- **Built first solo automation** within 3 months of joining: cut a maintenance firm's duplicate job documents 10x+ via automatic filtering (BigChange API, Azure Functions, Python)
+
 ## Contact details
 
 [LinkedIn](https://www.linkedin.com/in/maxtanner4)
