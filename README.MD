@@ -3,7 +3,7 @@
 
 Software engineer with 1+ years' experience at an AI & automation consultancy, building automations that cut manual admin and managing client relationships. BSc Business Analytics student at the University of Exeter; bilingual in English and Spanish.
 
-Leadership and problem-solving skills developed through owning solution design and client communications in automation projects; currently taking the Microsoft AI Product Manager Professional Certificate.
+Leadership and problem-solving skills developed through owning solution design and client communications in automation projects; currently taking the Microsoft AI Product Manager Professional Certificate (Market Research, Strategy & Roadmapping, UX/UI Design, Product Launch).
 
 Currently based in Exeter, UK
 
