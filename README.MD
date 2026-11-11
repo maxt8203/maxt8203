@@ -27,6 +27,4 @@ Currently based in Exeter, UK
 - **Own design and build** of a quoting system for a window installer, replacing slow manual pricing (5 sales forms, Python pricing engine, CRM link); wrote the product spec (34 requirements, 25 user stories)
 - **Built first solo automation** within 3 months of joining: cut a maintenance firm's duplicate job documents 10x+ via automatic filtering (BigChange API, Azure Functions, Python)
 
-## Contact details
-
-[LinkedIn](https://www.linkedin.com/in/maxtanner4)
+## [LinkedIn page (contact details)](https://www.linkedin.com/in/maxtanner4)
