@@ -13,7 +13,7 @@ Currently based in Exeter, UK
 - **Data**: Proficient in Pandas, Excel, and SQL querying, filtering, transforming, and schema design
 - **Security & Ops**: PII handling, API key management, encryption, access permissions, logging & alerting
 
-## ⭐ Featured: [agent-lanes](https://github.com/maxt8203/agent-lanes)
+## Featured: [agent-lanes](https://github.com/maxt8203/agent-lanes)
 
 **Run a team of Claude Code agents on one project, with the rules enforced in code rather than just written in prompts.**
 
